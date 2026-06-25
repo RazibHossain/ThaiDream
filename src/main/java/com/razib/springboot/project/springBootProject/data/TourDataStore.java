@@ -55,7 +55,7 @@ public class TourDataStore {
         packages.add(new TourPackage(
             "PKG004", "Krabi Adventure & Nature", "Krabi", "8 Days / 7 Nights",
             2199.00, false,
-            "https://images.unsplash.com/photo-1559628233-100c798642d7?w=800",
+            "https://plus.unsplash.com/premium_photo-1661882477461-20d16af70819?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "Explore the dramatic limestone cliffs and hidden lagoons of Krabi. Perfect for adventure lovers seeking rock climbing, kayaking, and secret beach discoveries.",
             "Adventure", 10, 4.6,
             Arrays.asList("Eco-Resort Accommodation", "Breakfast & Dinner", "Rock Climbing Lessons", "Sea Kayaking", "National Park Fees"),
@@ -79,7 +79,7 @@ public class TourDataStore {
         packages.add(new TourPackage(
             "PKG006", "Koh Samui Luxury Escape", "Koh Samui", "5 Days / 4 Nights",
             2499.00, false,
-            "https://images.unsplash.com/photo-1540202404-d0c7fe46a1b8?w=800",
+            "https://plus.unsplash.com/premium_photo-1661962958462-9e52fda9954d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "Indulge in the ultimate luxury escape on the stunning island of Koh Samui. Private villas, world-class spas, and exclusive beach clubs await.",
             "Luxury", 6, 4.9,
             Arrays.asList("Private Pool Villa", "All Meals & Drinks", "Spa Treatment Daily", "Private Beach Access", "Yacht Charter Half-Day"),
