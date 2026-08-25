@@ -33,7 +33,7 @@ public class ApiController {
         Optional<TourPackage> pkg = tourService.getPackageById(id);
         return pkg.map(ResponseEntity::ok).orElse(ResponseEntity.notFound().build());
     }
-
+//
     @GetMapping("/packages/free")
     public ResponseEntity<List<TourPackage>> getFreePackages() {
         return ResponseEntity.ok(tourService.getFreePackages());
